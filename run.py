@@ -10,7 +10,7 @@ import urllib2
 import urllib
 import Queue
 
-__author__ = 'vilsol'
+__author__ = 'Vilsol'
 
 
 class SkypeBot(object):
